@@ -11,3 +11,49 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.dark-btn-bg-color{
+  background-color: #FF7043;
+  color: white;
+}
+
+.soft-btn-bg-color{
+  background-color: #75838d;
+  color: white;
+}
+
+.dark-btn-bg-color:hover{
+  background-color: #dd4c20;
+  color: white;
+}
+
+.soft-btn-bg-color:hover{
+  background-color: #4d5458;
+  color: white;
+}
+
+.gray-text-color{
+  color: #4d5458;
+}
+
+/* const colors = {
+  primary: {
+      deepBlue: '#1A237E',
+  },
+  secondary: {
+      vibrantGreen: '#4CAF50',
+      sunsetOrange: '#FF7043',
+  },
+  tertiary: {
+      slateGrey: '#607D8B',
+      goldenYellow: '#FFC107',
+  },
+  background: {
+      softWhite: '#FAFAFA',
+      lightGrey: '#ECEFF1',
+  },
+  alerts: {
+      redAlert: '#D32F2F',
+      infoBlue: '#2196F3',
+  }
+}; */
